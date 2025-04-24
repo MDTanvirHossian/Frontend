@@ -62,7 +62,7 @@ const Layout = () => {
       {/* Footer */}
       <footer>
         <div className="bg-base-100 bg-secondary-color" />
-        <p>saqib@eastdeltauniversity</p>
+        <p>Mango Squad</p>
       </footer>
 
       {/* Modal Component */}
